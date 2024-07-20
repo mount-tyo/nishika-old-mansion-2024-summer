@@ -8,3 +8,9 @@ wheels/
 
 # venv
 .venv
+
+# mac
+.DS_Store
+
+# data
+data/train/*
