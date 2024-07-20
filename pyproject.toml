@@ -5,7 +5,12 @@ description = "Add your description here"
 authors = [
     { name = "mount-tyo", email = "82567570+mount-tyo@users.noreply.github.com" }
 ]
-dependencies = []
+dependencies = [
+    "notebook>=7.2.1",
+    "matplotlib>=3.9.1",
+    "numpy>=2.0.0",
+    "pandas>=2.2.2",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
